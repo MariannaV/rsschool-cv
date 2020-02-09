@@ -1,4 +1,4 @@
-##**Resume**
+# Resume
 
 1. **Name**     
     Marianna Vergun  
