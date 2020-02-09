@@ -4,8 +4,8 @@
     Marianna Vergun  
    
 2. **Contact info**     
-     - [Github](https://github.com/MariannaV)
-     - [Telegram](https://t.me/VergunMari)
+     [<img src="https://image.flaticon.com/icons/svg/733/733553.svg" width="30" height="30" />](https://github.com/MariannaV) 
+     [<img src="https://image.flaticon.com/icons/svg/906/906377.svg" width="30" height="30" />](https://t.me/VergunMari)
         
 3. **Summary**       
     I'm a frontend developer for 1 year
@@ -22,7 +22,7 @@
     Projects:  ["Succes"](https://github.com/MariannaV/success), ["Farm Shop"](https://github.com/MariannaV/farm-shop)
     
     _Example:_
-    ```javascript
+    ~~~~js
     const formValidations = {
       validations: {
           required: () => value => !value && 'Поле обязательно',
@@ -95,7 +95,7 @@
             }
         ]
     });
-    ```
+    ~~~~
 
 6. **English**  
    Pre-intermediate
