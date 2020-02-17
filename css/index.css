@@ -1,0 +1,52 @@
+/************ CODE COMPONENT: START ************/
+pre[class*="language-"].code {
+    background-color: #f6f8fa;
+}
+/************ CODE COMPONENT: END ************/
+
+/************ ICONS: START ************/
+.icon {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: var(--icon);
+}
+
+.icon-github {
+    --icon: url('../img/icon-github.svg');
+}
+
+.icon-telegram {
+    --icon: url('../img/icon-telegram.svg');
+}
+/************ ICONS: END ************/
+
+/************ PAGE 'RESUME': START ************/
+.resume-page {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.resume-page > header {
+    padding-top: 20px;
+}
+
+.resume-page > main {
+    padding-bottom: 20px;
+}
+
+.resume-page h1 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eaecef;
+}
+
+.resume-page ol li + li {
+    margin-top: 10px;
+}
+/************ PAGE 'RESUME': END ************/
